@@ -1,2 +1,1 @@
-Topic Suggestion
-
+Second viewpoint analysis - Contrasting perspective with equal depth 
