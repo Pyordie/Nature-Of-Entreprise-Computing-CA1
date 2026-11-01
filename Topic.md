@@ -1,4 +1,4 @@
 Second viewpoint analysis - Contrasting perspective with equal depth  
 Societal viewpoint.
 
-While the business viewpoint looks at who earns the from a profit persepective, the societal viewpoint asks who is affected and how. It judges the devlopment in computing by how it impacts communities, consumers, workers and real people who add a change in this world, rather than analysing the revenue or how much the market share has changed. 
+While the business viewpoint looks at who earns the from a profit persepective, the societal viewpoint asks who is affected and how. It judges the devlopment in computing by how it impacts communities, consumers, workers and real people who add a change in this world, rather than analysing the revenue or how much the market share has changed. For big corperations like ebay and amazon, this means looking beyond things of that nature and instead keeping turning to pages about trust, oppotunities, jobs created or even lost and the inequalities or qualities that these online marketplaces have therefore created. 
