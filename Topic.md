@@ -5,3 +5,6 @@ While the business viewpoint looks at who earns the from a profit persepective, 
 
 Trust and community
 The earliest importance for Ebay was socail as much as it was commercial. Their system allowed the use of trading items via online with no use of meeting up in person, replacing the use of a physical shop. This model proved very valuable to Ebay with Resnick et al. (2006) found that consumers would pay 7.6% more for items from established cooperations than from newcomers. Your reputaion became a source of social currency with Ebays users forming communities that benefited both parties, exchanging advice and goods. Amazon later learned and devloped this idea through customer reviews. This shifted the narriative from consumers trusting a shopkeeper to trusting the public reception and the crowd. However, the negative in this is that this trust is only as realible as the reviwes behind it, which can be manipulated with anyone having the power to write a review on any item.
+
+Access and opportunity
+The barriers to entry for individuals and small firms have been lowered from the growth and presence by online marketplaces. According to reports from Amazon, third party sellers, with most of them being both small and medium sized sellers, sold 4.1 billion products accounting for %60 of its sales in 2022 (PYMNTS, 2023). 
