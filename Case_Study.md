@@ -144,6 +144,10 @@ As future computing professionals, we must learn from this evolution and build s
 The significance goes beyond the strategies of two companies. The case shows how enterprise computing shapes modern life, which is why every development decision needs to weigh multiple viewpoints and their ethical implications.
 
 
+References :
+https://en.wikipedia.org/wiki/History_of_Amazon
+https://www.ethicalconsumer.org/
+https://apnews.com/
 
 
 
