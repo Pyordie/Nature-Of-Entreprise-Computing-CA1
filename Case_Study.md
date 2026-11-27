@@ -149,6 +149,14 @@ https://en.wikipedia.org/wiki/History_of_Amazon
 https://www.ethicalconsumer.org/
 https://apnews.com/
 
+Central Statistics Office (2025). Information Society Statistics – Enterprises 2025: E-Commerce. Available at: https://www.cso.ie/en/releasesandpublications/ep/p-isse/informationsocietystatistics-enterprises2025/e-commerce
+
+NPR (2024). "Amazon manipulated injury data to make warehouses appear safer, a Senate probe finds." 16 December. Available at: https://www.npr.org/2024/12/16/nx-s1-5230240/amazon-injury-warehouse-senate-investigation
+
+PYMNTS (2023). "Amazon Says Third-Party Sellers Drive 60% of eCommerce Sales." Available at: https://pymnts.com/?p=1509038
+
+Resnick, P., Zeckhauser, R., Swanson, J. and Lockwood, K. (2006). "The Value of Reputation on eBay: A Controlled Experiment." Experimental Economics, 9(2), pp. 79–101. Available at: https://www.cambridge.org/core/journals/experimental-economics/article/abs/value-of-reputation-on-ebay-a-controlled-experiment/610EA11BA19583907061AFB677BE4338
+
 
 
 
